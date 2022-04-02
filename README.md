@@ -1,5 +1,5 @@
 # Policy
-Phoenix Group A3 Community Standards
+Phoenix Group A3 Documents & Archive
 
 ## How does this work?
 
