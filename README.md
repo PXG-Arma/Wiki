@@ -1,4 +1,4 @@
-# Phoenix Group Policies Rep
+# Phoenix Group Policies Repo
 
 This repository contains the community rules, in-game policies, mission making guide, role/faction list, and administrative server command lines.
 
