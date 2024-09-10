@@ -14,5 +14,5 @@
   <strong>Suggestions and contributions are always welcome!</strong> <br>
   Jump in and help us build an even better community.
 <br>
-All information can be found on the [Wiki](https://github.com/PX-Arma3/Policy/wiki)
+****START HERE: (https://github.com/PX-Arma3/Policy/wiki)****
 </p>
