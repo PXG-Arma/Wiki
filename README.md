@@ -1,9 +1,3 @@
-# PXG Rules and Wiki
-
-This repository contains the community rules, in-game policies, mission making guide, role/faction list, and administrative server command lines.
-
-All information can be found on the [Wiki](https://github.com/PX-Arma3/Policy/wiki)
-
 <p align="center">
   <img src="https://github.com/PXG-Arma/Policy/blob/main/PXG_Logo.png?raw=true" width="150">
 </p>
@@ -19,4 +13,6 @@ All information can be found on the [Wiki](https://github.com/PX-Arma3/Policy/wi
 <p align="center">
   <strong>Suggestions and contributions are always welcome!</strong> <br>
   Jump in and help us build an even better community.
+<br>
+All information can be found on the [Wiki](https://github.com/PX-Arma3/Policy/wiki)
 </p>
