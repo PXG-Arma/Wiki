@@ -13,6 +13,8 @@
 <p align="center">
   <strong>Suggestions and contributions are always welcome!</strong> <br>
   Jump in and help us build an even better community.
-</p><p>
+</p>
+
+<p align="center">
 START HERE: https://github.com/PX-Arma3/Policy/wiki
 </p>
