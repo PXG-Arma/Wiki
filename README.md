@@ -1,4 +1,4 @@
-# Phoenix Group Policies Repo
+# PXG Rules and Wiki
 
 This repository contains the community rules, in-game policies, mission making guide, role/faction list, and administrative server command lines.
 
